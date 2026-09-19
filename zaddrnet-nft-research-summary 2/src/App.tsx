@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import Marquee from "./components/Marquee";
 import Stats from "./components/Stats";
 import Manifesto from "./components/Manifesto";
+import Letter from "./components/Letter";
 import Generator from "./components/Generator";
 import Protocol from "./components/Protocol";
 import Tweets from "./components/Tweets";
@@ -42,6 +43,7 @@ export default function App() {
         <Marquee />
         <Stats />
         <Manifesto />
+        <Letter />
         <Generator />
         <Protocol />
         <Tweets />

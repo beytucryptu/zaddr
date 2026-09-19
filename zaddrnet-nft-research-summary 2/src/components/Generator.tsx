@@ -59,7 +59,7 @@ export default function Generator() {
       <div className="mx-auto max-w-7xl px-5 py-24 sm:px-10 sm:py-32">
         <div className="flex items-center gap-3 font-mono2 text-[10px] tracking-[0.35em] text-gold">
           <span className="h-px w-10 bg-gold/50" />
-          02 — YOUR ANONYMOUS FACE
+          03 — YOUR ANONYMOUS FACE
         </div>
 
         <div className="mt-10 grid gap-14 lg:grid-cols-2 lg:items-center">

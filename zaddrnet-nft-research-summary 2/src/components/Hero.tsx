@@ -52,6 +52,7 @@ export default function Hero() {
         </a>
         <nav className="hidden items-center gap-8 font-mono2 text-[11px] tracking-[0.2em] text-dim md:flex">
           <a href="#manifesto" className="transition-colors hover:text-gold">CONCEPT</a>
+          <a href="#letter" className="transition-colors hover:text-gold">THE LETTER</a>
           <a href="#yuz" className="transition-colors hover:text-gold">YOUR FACE</a>
           <a href="#wl" className="transition-colors hover:text-gold">WL PROTOCOL</a>
           <a href="#tweetler" className="transition-colors hover:text-gold">TWEETS</a>

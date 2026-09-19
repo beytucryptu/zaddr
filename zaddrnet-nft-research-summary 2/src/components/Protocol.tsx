@@ -52,7 +52,7 @@ export default function Protocol() {
       <div className="mx-auto max-w-7xl px-5 py-24 sm:px-10 sm:py-32">
         <div className="flex items-center gap-3 font-mono2 text-[10px] tracking-[0.35em] text-gold">
           <span className="h-px w-10 bg-gold/50" />
-          03 — WHITELIST PROTOCOL
+          04 — WHITELIST PROTOCOL
         </div>
 
         <div className="mt-10 flex flex-wrap items-end justify-between gap-6">
